@@ -1,1 +1,13 @@
-
+{
+  "users": [
+    {
+      "id": "user_1788698884000",
+      "name": "AGILNURUSSOFA",
+      "email": "agilnurus2008@gmail.com",
+      "phone": "081574811853",
+      "password": "agilnurussofa",
+      "balance": 0,
+      "createdAt": "2026-09-06T12:48:04.000Z"
+    }
+  ]
+}
